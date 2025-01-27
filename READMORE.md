@@ -22,9 +22,11 @@ This is a small project featuring the classic Snake Game (or just Snake), develo
 [GitHub Repository](https://github.com/AlanLima287/Binary_Tree)
 
 This is a academic project associated with the discipline of Data Structures and Algoritms III. It consists of a terminal aplication and interpreter that interact with three classes of Data Structures:
+
 - Linked Lists;
 - Binary Trees;
 - AVL Trees;
+
 The project features functionalities like creation and test of such strutures. Furthermore, the project carries all the theory behind its innerworking and algorithm implementation.
 
 ### Technologies Used
@@ -33,6 +35,6 @@ The project features functionalities like creation and test of such strutures. F
 
 ### Sample Images
 
-<img src="./assets/JAST/sample-0.png" width="500">
-<img src="./assets/JAST/sample-1.png" width="500">
-<img src="./assets/JAST/sample-2.png" width="500">
+![image](./assets/JAST/sample-0.png)
+![image](./assets/JAST/sample-1.png)
+![image](./assets/JAST/sample-2.png)
