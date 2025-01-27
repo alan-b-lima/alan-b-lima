@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/86093c3d-77a7-4ed6-adad-45aa6f52cb41)# Hello, my name is Alan, welcome to my GitHub profile
+# Hello, my name is Alan, welcome to my GitHub profile
 
 ## About Me
 
