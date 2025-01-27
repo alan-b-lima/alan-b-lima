@@ -14,10 +14,8 @@ This is a small project featuring the classic Snake Game (or just Snake), develo
 
 ### Sample Images
 
-<figure>
-   <img src="./assets/snake/snake-0.png">
-   <img src="./assets/snake/snake-1.png">
-</figure>
+<img src="./assets/snake/snake-0.png" width="500">
+<img src="./assets/snake/snake-1.png" width="500">
 
 ## JAST
 
@@ -35,22 +33,6 @@ The project features functionalities like creation and test of such strutures. F
 
 ### Sample Images
 
-<figure>
-   <img src="./assets/JAST/sample-0.png">
-   <img src="./assets/JAST/sample-1.png">
-   <img src="./assets/JAST/sample-2.png">
-</figure>
-
-<!-- Style -->
-
-<style>
-   figure {
-      display: flex
-      border-radius: 100rem
-   }
-
-   img {
-      display: block;
-      width: 100%
-   }
-</style>
+<img src="./assets/JAST/sample-0.png" width="500">
+<img src="./assets/JAST/sample-1.png" width="500">
+<img src="./assets/JAST/sample-2.png" width="500">
