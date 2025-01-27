@@ -14,8 +14,8 @@ This is a small project featuring the classic Snake Game (or just Snake), develo
 
 ### Sample Images
 
-<img src="./assets/snake/snake-0.png" width="500">
-<img src="./assets/snake/snake-1.png" width="500">
+![image](./assets/snake/snake-0.png)
+![image](./assets/snake/snake-1.png)
 
 ## JAST
 
