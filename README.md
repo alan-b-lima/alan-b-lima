@@ -8,6 +8,7 @@ My name is Alan Lima, I live in Diamantina, Minas Gerais, Brazil. I'm currently 
 ## Skills
 
 **Languages**: C, C++, x86 Assembly, JavaScript, HTML & CSS, MySQL and PHP;
+
 **Technologies**: Excel, Word, PowerPoint, Git, GitHub, LaTex;
 
 ## Education
