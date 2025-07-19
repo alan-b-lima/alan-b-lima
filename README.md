@@ -59,7 +59,6 @@ Tenho experiência com [Java](https://www.java.com/) desde a época do IF, sendo
 Essas são algumas ferramentas que eu tenho domínio sobre:
 
 <p align="center">
-    <a href="https://www.json.org/json-en.html"><img alt="JSON" src="https://skillicons.dev/icons?i=json"></a>
     <a href="https://regexr.com/"><img alt="Regex" src="https://skillicons.dev/icons?i=regex"></a>
     <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://skillicons.dev/icons?i=markdown"></a>
     <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode"></a>
