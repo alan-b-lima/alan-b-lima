@@ -15,7 +15,7 @@ Oi, meu nome é Alan Lima, eu moro em Diamantina, Minas Gerais. Eu sou um Desenv
 
 Alguns dos meus projetos mais recentes e interessantes:
 
-- [**Seminário de Go**](https://github.com/alan-b-lima/pl-go): Um conjunto de slides interativos desenvolvidos usando HTML, CSS e TypeScript. Esses sendo servidos por um servidor em Go, capaz também, de rodar código em live;
+- [**Apresentação Go**](https://github.com/alan-b-lima/pl-go): Um conjunto de slides interativos desenvolvidos usando HTML, CSS e TypeScript. Esses sendo servidos por um servidor em Go, capaz também, de rodar código em live;
 
 - [**Projeto Oficina Mecânica**](https://github.com/alan-b-lima/Workshop): Um projeto acadêmico que o backend para uma oficina mecânica, desenvolvido em Java;
 
