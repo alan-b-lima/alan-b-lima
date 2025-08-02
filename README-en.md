@@ -1,22 +1,31 @@
-# Olá, bem vindo ao meu GitHub 👋
+# Hello, welcome to my GitHub 👋
 
 ![Banner](/assets/banner.png)
 
-Oi, meu nome é Alan Lima, eu moro em Diamantina, Minas Gerais. Eu sou um Desenvolvedor de Software, Graduando em Sistemas de Informação na [UFVJM](https://portal.ufvjm.edu.br/a-universidade/cursos/sin) e Técnico em Informática pelo [IFMG](https://www.sje.ifmg.edu.br/portal/index.php/tecnico/informatica). Eu procuro sempre resolver problemas de forma eficiente e elegante, sempre priorizando a qualidade do código e a experiência do usuário.
+Hi, my name is Alan Lima, I live in Diamantina, Minas Gerais. I am a Software Developer, undergraduate student in Information Systems at [UFVJM](https://portal.ufvjm.edu.br/a-universidade/cursos/sin) and Computer Technician from [IFMG](https://www.sje.ifmg.edu.br/portal/index.php/tecnico/informatica). I always seek to solve problems efficiently and elegantly, prioritizing code quality and user experience.
 
-[EN-US](./README-en.md)
+[PT-BR](./README.md)
 
-## Destaques
+## Highlights
 
-- [**Apresentação Go**](https://github.com/alan-b-lima/pl-go): Um conjunto de slides interativos desenvolvidos usando HTML, CSS e TypeScript. Esses sendo servidos por um servidor em Go, capaz também, de rodar código em live;
+- [**Go Presentation**](https://github.com/alan-b-lima/pl-go): A set of interactive slides developed using HTML, CSS and TypeScript. These are served by a Go server, also capable of running live code;
 
-- [**Projeto Oficina Mecânica**](https://github.com/alan-b-lima/Workshop): Um projeto acadêmico que o backend para uma oficina mecânica, desenvolvido em Java;
+- [**Automotive Workshop Project**](https://github.com/alan-b-lima/Workshop): An academic project that provides the backend for an automotive workshop, developed in Java;
 
-- [**CLUE**](https://github.com/alan-b-lima/huffman_coding): Um projeto de codificação de Huffman, desenvolvido em C++;
+- [**CLUE**](https://github.com/alan-b-lima/huffman_coding): A Huffman coding project, developed in C++;
 
-- [**JAST**](https://github.com/alan-b-lima/Binary_Tree): Uma shell para testes envolvendo árvores binárias, árvores AVL e Listas Ligadas, desenvolvida em C++.
+- [**JAST**](https://github.com/alan-b-lima/Binary_Tree): A shell for testing involving binary trees, AVL trees and Linked Lists, developed in C++.
 
-## Linguagens
+## Operating Systems
+
+<p align="center">
+    <a href="https://www.microsoft.com/pt-br/windows"><img alt="Windows" src="https://skillicons.dev/icons?i=windows"></a>
+    <a href="https://www.linux.org/"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"></a>
+    <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://skillicons.dev/icons?i=ubuntu"></a>
+    <a href="https://www.apple.com/macos/"><img alt="MacOS" src="https://skillicons.dev/icons?i=apple"></a>
+</p>
+
+## Languages
 
 <p align="center">
     <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-b-lima&layout=compact&theme=dark">
@@ -34,16 +43,7 @@ Oi, meu nome é Alan Lima, eu moro em Diamantina, Minas Gerais. Eu sou um Desenv
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"></a>
 </p>
 
-## Sistemas Operacionais
-
-<p align="center">
-    <a href="https://www.microsoft.com/pt-br/windows"><img alt="Windows" src="https://skillicons.dev/icons?i=windows"></a>
-    <a href="https://www.linux.org/"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"></a>
-    <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://skillicons.dev/icons?i=ubuntu"></a>
-    <a href="https://www.apple.com/macos/"><img alt="MacOS" src="https://skillicons.dev/icons?i=apple"></a>
-</p>
-
-## Ferramentas
+## Tools
 
 <p align="center">
     <a href="https://regexr.com/"><img alt="Regex" src="https://skillicons.dev/icons?i=regex"></a>
