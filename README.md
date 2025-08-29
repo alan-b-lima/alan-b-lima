@@ -1,20 +1,8 @@
 # Olá, bem vindo ao meu GitHub 👋
 
-![Banner](/assets/banner.png)
-
 Oi, meu nome é Alan Lima, eu moro em Diamantina, Minas Gerais. Eu sou um Desenvolvedor de Software, Graduando em Sistemas de Informação na [UFVJM](https://portal.ufvjm.edu.br/a-universidade/cursos/sin) e Técnico em Informática pelo [IFMG](https://www.sje.ifmg.edu.br/portal/index.php/tecnico/informatica). Eu procuro sempre resolver problemas de forma eficiente e elegante, sempre priorizando a qualidade do código e a experiência do usuário.
 
 [EN-US](./README-en.md)
-
-## Destaques
-
-- [**Apresentação Go**](https://github.com/alan-b-lima/pl-go): Um conjunto de slides interativos desenvolvidos usando HTML, CSS e TypeScript. Esses sendo servidos por um servidor em Go, capaz também, de rodar código em live;
-
-- [**Projeto Oficina Mecânica**](https://github.com/alan-b-lima/Workshop): Um projeto acadêmico que o backend para uma oficina mecânica, desenvolvido em Java;
-
-- [**CLUE**](https://github.com/alan-b-lima/huffman_coding): Um projeto de codificação de Huffman, desenvolvido em C++;
-
-- [**JAST**](https://github.com/alan-b-lima/Binary_Tree): Uma shell para testes envolvendo árvores binárias, árvores AVL e Listas Ligadas, desenvolvida em C++.
 
 ## Linguagens
 
