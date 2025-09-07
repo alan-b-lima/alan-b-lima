@@ -4,7 +4,9 @@ Oi, meu nome é Alan Lima, eu moro em Diamantina, Minas Gerais. Eu sou um Desenv
 
 [EN-US](./README-en.md)
 
-## Linguagens
+## Linguagens, Ferramentas e Sistemas
+
+Aqui estão listadas Linguagens de Programação, Ferramentas e Sistemas Operacionais com os quais eu tenho experiência sólida.
 
 <p align="center">
     <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-b-lima&layout=compact&theme=dark">
@@ -19,25 +21,17 @@ Oi, meu nome é Alan Lima, eu moro em Diamantina, Minas Gerais. Eu sou um Desenv
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" src="https://skillicons.dev/icons?i=css"></a>
     <a href="https://isocpp.org/"><img alt="C++" src="https://skillicons.dev/icons?i=cpp"></a>
     <a href="https://www.c-language.org"><img alt="C" src="https://skillicons.dev/icons?i=c"></a>
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"></a>
-</p>
-
-## Sistemas Operacionais
-
-<p align="center">
-    <a href="https://www.microsoft.com/pt-br/windows"><img alt="Windows" src="https://skillicons.dev/icons?i=windows"></a>
-    <a href="https://www.linux.org/"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"></a>
-    <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://skillicons.dev/icons?i=ubuntu"></a>
-    <a href="https://www.apple.com/macos/"><img alt="MacOS" src="https://skillicons.dev/icons?i=apple"></a>
-</p>
-
-## Ferramentas
-
-<p align="center">
+    <br>
     <a href="https://regexr.com/"><img alt="Regex" src="https://skillicons.dev/icons?i=regex"></a>
-    <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://skillicons.dev/icons?i=markdown"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"></a>
+    <a href="https://postman.com"><img alt="Postman" src="https://skillicons.dev/icons?i=postman"></a>
     <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode"></a>
     <a href="https://git-scm.com/"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
     <a href="https://github.com/alan-b-lima"><img alt="GitHub" src="https://skillicons.dev/icons?i=github"></a>
     <a href="https://www.latex-project.org/"><img alt="LaTeX" src="https://skillicons.dev/icons?i=latex"></a>
+    <br>
+    <a href="https://www.microsoft.com/pt-br/windows"><img alt="Windows" src="https://skillicons.dev/icons?i=windows"></a>
+    <a href="https://www.linux.org/"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"></a>
+    <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://skillicons.dev/icons?i=ubuntu"></a>
+    <a href="https://www.apple.com/macos/"><img alt="MacOS" src="https://skillicons.dev/icons?i=apple"></a>
 </p>
