@@ -6,7 +6,7 @@ Hi, my name is Alan Lima, I live in Diamantina, Minas Gerais. I am a Software De
 
 ## Languages, Tools and Systems
 
-This are some of the Programming Languages, Tools and Operating Systems I have solid experience with.
+These are some of the Programming Languages, Tools and Operating Systems I have solid experience with.
 
 <p align="center">
     <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-b-lima&layout=compact&theme=dark">
